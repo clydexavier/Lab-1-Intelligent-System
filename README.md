@@ -6,7 +6,7 @@ The **Blackjack Expert System** is an intelligent application designed to enhanc
 
 ## Model of the AI
 
-The heart of this system lies in the model of **card counting**, a technique widely recognized in the realm of Blackjack strategy. Card counting is a method used to keep track of the ratio of high to low-value cards remaining in the deck. The model is based on the premise that a deck rich in high-value cards favors the player, while a deck with more low-value cards benefits the dealer. The Blackjack Expert System employs this model to make informed decisions and suggest strategic moves.
+The core of this approach revolves around a Markov model enhanced by card counting, a strategy well-established in the domain of Blackjack tactics. Card counting involves monitoring the proportion of high to low-value cards still present in the deck. The methodology is founded on the principle that a deck abundant in high-value cards favors the player, whereas a deck containing more low-value cards is advantageous for the dealer. The Markov-Card Counting Expert System leverages this model to guide its decision-making and recommend tactical plays.
 
 ## Inference
 
